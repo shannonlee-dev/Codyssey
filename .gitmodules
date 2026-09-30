@@ -1,69 +1,81 @@
-[submodule "basic/codyssey-01"]
-	path = basic/codyssey-01
+[submodule "admission/codyssey-01"]
+	path = admission/codyssey-01
 	url = https://github.com/shannonlee-dev/containerized-dev-workstation.git
-[submodule "basic/codyssey-02"]
-	path = basic/codyssey-02
+[submodule "admission/codyssey-02"]
+	path = admission/codyssey-02
 	url = https://github.com/shannonlee-dev/persistent-quiz-cli.git
-[submodule "basic/codyssey-03"]
-	path = basic/codyssey-03
+[submodule "admission/codyssey-03"]
+	path = admission/codyssey-03
 	url = https://github.com/shannonlee-dev/matrix-accelerator-simulator.git
-[submodule "basic/codyssey-04"]
-	path = basic/codyssey-04
-	url = https://github.com/shannonlee-dev/personal-finance-cli.git
-[submodule "basic/codyssey-05"]
-	path = basic/codyssey-05
+[submodule "basic/codyssey-b1-1"]
+	path = basic/codyssey-b1-1
 	url = https://github.com/shannonlee-dev/developer-portfolio-site.git
-[submodule "basic/codyssey-06"]
-	path = basic/codyssey-06
-	url = https://github.com/shannonlee-dev/git-ai-assistant.git
-[submodule "basic/codyssey-07"]
-	path = basic/codyssey-07
+[submodule "basic/codyssey-b1-2"]
+	path = basic/codyssey-b1-2
 	url = https://github.com/shannonlee-dev/study-notes-spa.git
-[submodule "basic/codyssey-08"]
-	path = basic/codyssey-08
+[submodule "basic/codyssey-b2-1"]
+	path = basic/codyssey-b2-1
+	url = https://github.com/shannonlee-dev/personal-finance-cli.git
+[submodule "basic/codyssey-b2-2"]
+	path = basic/codyssey-b2-2
 	url = https://github.com/codyssey-b2-2-team-mission/git-flow-utility-lab.git
-[submodule "basic/codyssey-10"]
-	path = basic/codyssey-10
+[submodule "basic/codyssey-b3-1"]
+	path = basic/codyssey-b3-1
+	url = https://github.com/shannonlee-dev/secure-cloud-service-infra.git
+[submodule "basic/codyssey-b3-2"]
+	path = basic/codyssey-b3-2
+	url = https://github.com/shannonlee-dev/git-ai-assistant.git
+[submodule "basic/codyssey-b4-1"]
+	path = basic/codyssey-b4-1
 	url = https://github.com/shannonlee-dev/linux-service-ops-automation.git
-[submodule "basic/codyssey-11"]
-	path = basic/codyssey-11
-	url = https://github.com/shannonlee-dev/version-control-simulator.git
-[submodule "basic/codyssey-12"]
-	path = basic/codyssey-12
-	url = https://github.com/shannonlee-dev/book-records-crud-service.git
-[submodule "basic/codyssey-13"]
-	path = basic/codyssey-13
-	url = https://github.com/shannonlee-dev/library-loan-management-service.git
-[submodule "basic/codyssey-14"]
-	path = basic/codyssey-14
-	url = https://github.com/shannonlee-dev/mini-redis-data-structures.git
-[submodule "basic/codyssey-15"]
-	path = basic/codyssey-15
+[submodule "basic/codyssey-b4-2"]
+	path = basic/codyssey-b4-2
 	url = https://github.com/shannonlee-dev/system-failure-analysis-lab.git
-[submodule "basic/codyssey-16"]
-	path = basic/codyssey-16
+[submodule "basic/codyssey-b5-1"]
+	path = basic/codyssey-b5-1
+	url = https://github.com/shannonlee-dev/mini-redis-data-structures.git
+[submodule "basic/codyssey-b5-2"]
+	path = basic/codyssey-b5-2
+	url = https://github.com/shannonlee-dev/version-control-simulator.git
+[submodule "basic/codyssey-b6-1"]
+	path = basic/codyssey-b6-1
 	url = https://github.com/shannonlee-dev/community-workshop-sql-lab.git
-[submodule "advanced/codyssey-17"]
-	path = advanced/codyssey-17
+[submodule "basic/codyssey-b6-2"]
+	path = basic/codyssey-b6-2
+	url = https://github.com/shannonlee-dev/book-records-crud-service.git
+[submodule "basic/codyssey-b6-3"]
+	path = basic/codyssey-b6-3
+	url = https://github.com/shannonlee-dev/library-loan-management-service.git
+[submodule "basic/codyssey-b7-1"]
+	path = basic/codyssey-b7-1
+	url = https://github.com/shannonlee-dev/fastapi-chatbot.git
+[submodule "advanced/codyssey-a1-1"]
+	path = advanced/codyssey-a1-1
 	url = https://github.com/shannonlee-dev/customer-value-segmentation-pipeline.git
-[submodule "advanced/codyssey-18"]
-	path = advanced/codyssey-18
+[submodule "advanced/codyssey-a2-1"]
+	path = advanced/codyssey-a2-1
 	url = https://github.com/shannonlee-dev/model-learning-mechanics-lab.git
-[submodule "advanced/codyssey-19"]
-	path = advanced/codyssey-19
+[submodule "advanced/codyssey-a3-1"]
+	path = advanced/codyssey-a3-1
 	url = https://github.com/shannonlee-dev/document-digitization-pipeline.git
-[submodule "advanced/codyssey-20"]
-	path = advanced/codyssey-20
+[submodule "advanced/codyssey-a3-2"]
+	path = advanced/codyssey-a3-2
 	url = https://github.com/shannonlee-dev/motion-tracking-analysis-pipeline.git
-[submodule "advanced/codyssey-21"]
-	path = advanced/codyssey-21
+[submodule "advanced/codyssey-a4-1"]
+	path = advanced/codyssey-a4-1
 	url = https://github.com/shannonlee-dev/document-retrieval-classification-system.git
-[submodule "advanced/codyssey-22"]
-	path = advanced/codyssey-22
+[submodule "advanced/codyssey-a4-2"]
+	path = advanced/codyssey-a4-2
 	url = https://github.com/shannonlee-dev/information-extraction-sentiment-engine.git
-[submodule "advanced/codyssey-23"]
-	path = advanced/codyssey-23
+[submodule "advanced/codyssey-a5-1"]
+	path = advanced/codyssey-a5-1
+	url = https://github.com/shannonlee-dev/credit-risk-modeling-pipeline.git
+[submodule "advanced/codyssey-a5-2"]
+	path = advanced/codyssey-a5-2
 	url = https://github.com/shannonlee-dev/customer-risk-explainability-pipeline.git
-[submodule "advanced/codyssey-24"]
-	path = advanced/codyssey-24
+[submodule "advanced/codyssey-a6-1"]
+	path = advanced/codyssey-a6-1
+	url = https://github.com/shannonlee-dev/verified-neural-training-engine.git
+[submodule "advanced/codyssey-a6-2"]
+	path = advanced/codyssey-a6-2
 	url = https://github.com/shannonlee-dev/predictive-model-diagnostics-pipeline.git
